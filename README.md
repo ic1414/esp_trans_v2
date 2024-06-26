@@ -1,9 +1,13 @@
 # esp_trans_v2
 
-未完待续 To be continued
 
-3d模型 3d model: https://www.thingiverse.com/thing:6167664
 
-![esp_trans_v2](https://github.com/ic1414/esp_trans_v2/assets/93729382/7923f8aa-724e-4523-98dc-985d908c46cc)
+- [视频介绍](https://www.bilibili.com/video/BV1F94y157EU/?spm_id_from=333.999.0.0)（[旧版遥控](https://www.bilibili.com/video/BV1n44y1s7gA/?spm_id_from=333.999.0.0)）
+- [视频组装]()
+- [software doc](./doc/software_tut.md)  
+- [hardware doc](./doc/hardware_tut.md)   
+
+
+![esp_trans_v2](./doc/img_readme_md/Snipaste_2024-06-12_00-41-50.png)
 
 
